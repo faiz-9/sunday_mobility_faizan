@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/sunday_mobility_faizan/static/css/main.cd886ee4.chunk.css",
-    "main.js": "/sunday_mobility_faizan/static/js/main.4f5163b0.chunk.js",
-    "main.js.map": "/sunday_mobility_faizan/static/js/main.4f5163b0.chunk.js.map",
-    "runtime-main.js": "/sunday_mobility_faizan/static/js/runtime-main.9d8dac2e.js",
-    "runtime-main.js.map": "/sunday_mobility_faizan/static/js/runtime-main.9d8dac2e.js.map",
-    "static/js/2.be5661c6.chunk.js": "/sunday_mobility_faizan/static/js/2.be5661c6.chunk.js",
-    "static/js/2.be5661c6.chunk.js.map": "/sunday_mobility_faizan/static/js/2.be5661c6.chunk.js.map",
-    "index.html": "/sunday_mobility_faizan/index.html",
-    "static/css/main.cd886ee4.chunk.css.map": "/sunday_mobility_faizan/static/css/main.cd886ee4.chunk.css.map",
-    "static/js/2.be5661c6.chunk.js.LICENSE.txt": "/sunday_mobility_faizan/static/js/2.be5661c6.chunk.js.LICENSE.txt",
-    "static/media/pic.de8d4ad0.jpg": "/sunday_mobility_faizan/static/media/pic.de8d4ad0.jpg"
+    "main.css": ".https://faiz-9.github.io/sunday_mobility_faizan/static/css/main.cd886ee4.chunk.css",
+    "main.js": ".https://faiz-9.github.io/sunday_mobility_faizan/static/js/main.4f5163b0.chunk.js",
+    "main.js.map": ".https://faiz-9.github.io/sunday_mobility_faizan/static/js/main.4f5163b0.chunk.js.map",
+    "runtime-main.js": ".https://faiz-9.github.io/sunday_mobility_faizan/static/js/runtime-main.662178e6.js",
+    "runtime-main.js.map": ".https://faiz-9.github.io/sunday_mobility_faizan/static/js/runtime-main.662178e6.js.map",
+    "static/js/2.be5661c6.chunk.js": ".https://faiz-9.github.io/sunday_mobility_faizan/static/js/2.be5661c6.chunk.js",
+    "static/js/2.be5661c6.chunk.js.map": ".https://faiz-9.github.io/sunday_mobility_faizan/static/js/2.be5661c6.chunk.js.map",
+    "index.html": ".https://faiz-9.github.io/sunday_mobility_faizan/index.html",
+    "static/css/main.cd886ee4.chunk.css.map": ".https://faiz-9.github.io/sunday_mobility_faizan/static/css/main.cd886ee4.chunk.css.map",
+    "static/js/2.be5661c6.chunk.js.LICENSE.txt": ".https://faiz-9.github.io/sunday_mobility_faizan/static/js/2.be5661c6.chunk.js.LICENSE.txt",
+    "static/media/pic.de8d4ad0.jpg": ".https://faiz-9.github.io/sunday_mobility_faizan/static/media/pic.de8d4ad0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d8dac2e.js",
+    "static/js/runtime-main.662178e6.js",
     "static/js/2.be5661c6.chunk.js",
     "static/css/main.cd886ee4.chunk.css",
     "static/js/main.4f5163b0.chunk.js"
