@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sunday_mobility_faizan/static/css/main.cd886ee4.chunk.css",
-    "main.js": "/sunday_mobility_faizan/static/js/main.0bef10b3.chunk.js",
-    "main.js.map": "/sunday_mobility_faizan/static/js/main.0bef10b3.chunk.js.map",
+    "main.js": "/sunday_mobility_faizan/static/js/main.97626b45.chunk.js",
+    "main.js.map": "/sunday_mobility_faizan/static/js/main.97626b45.chunk.js.map",
     "runtime-main.js": "/sunday_mobility_faizan/static/js/runtime-main.9d8dac2e.js",
     "runtime-main.js.map": "/sunday_mobility_faizan/static/js/runtime-main.9d8dac2e.js.map",
     "static/js/2.be5661c6.chunk.js": "/sunday_mobility_faizan/static/js/2.be5661c6.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.9d8dac2e.js",
     "static/js/2.be5661c6.chunk.js",
     "static/css/main.cd886ee4.chunk.css",
-    "static/js/main.0bef10b3.chunk.js"
+    "static/js/main.97626b45.chunk.js"
   ]
 }
